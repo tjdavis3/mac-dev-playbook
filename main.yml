@@ -1,6 +1,6 @@
 ---
 - hosts: localhost
-  user: richard
+  user: tjd
   connection: local
 
   vars_files:
@@ -8,4 +8,4 @@
 
   roles:
     - geerlingguy.homebrew
-    - dotfiles
+#    - dotfiles
