@@ -41,6 +41,7 @@ homebrew_cask_apps:
   - atom
   - android-file-transfer
   - docker
+  - libreoffice
   - wireshark
   - java
   - subsurface
@@ -48,6 +49,8 @@ homebrew_cask_apps:
   - iterm2
   - freemind
   - tunnelblick
+  - keepassx
+  - psequel
 
 dockitems_to_remove:
   - Launchpad
