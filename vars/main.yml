@@ -32,6 +32,7 @@ homebrew_cask_apps:
   - google-drive-file-stream
   - google-hangouts
   - google-cloud-sdk
+  - gimp
   - drawio
   - firefox
   - vagrant
