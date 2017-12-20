@@ -21,6 +21,7 @@ homebrew_installed_packages:
   - httpie
   - sqlite
   - cockroach
+  - pipenv
 
 homebrew_taps:
   - caskroom/cask
