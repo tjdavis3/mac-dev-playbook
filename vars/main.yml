@@ -46,6 +46,7 @@ homebrew_cask_apps:
   - docker
   - libreoffice
   - wireshark
+  - firefox
   - java
   - subsurface
   - squirrelsql
