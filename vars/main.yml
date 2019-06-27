@@ -22,7 +22,8 @@ homebrew_installed_packages:
   - sqlite
   - cockroach
   - pipenv
-  - joplin
+  - ipmiutil
+  - ipmitool
 
 homebrew_taps:
   - caskroom/cask
