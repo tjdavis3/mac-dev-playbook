@@ -24,6 +24,7 @@ homebrew_installed_packages:
   - pipenv
   - ipmiutil
   - ipmitool
+  - ghi
 
 homebrew_taps:
   - caskroom/cask
